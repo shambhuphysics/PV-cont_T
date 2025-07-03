@@ -1,5 +1,5 @@
 
- VASP Binary Search for Target Pressure via Volume Optimization
+# VASP Binary Search for Target Pressure via Volume Optimization
 
  USAGE: vasp_pressure_search <temperature> <expected_volume> <target_pressure>
 
